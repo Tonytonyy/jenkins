@@ -11,7 +11,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>springboot</groupId>
-    <artifactId>springboot</artifactId>
+    <artifactId>jenkins</artifactId>
     <version>1.0</version>
     <build>
         <plugins>
